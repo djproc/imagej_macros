@@ -10,5 +10,5 @@ Description:
 LinescanonfolderMACRO_WORKING
 This will perform a 150px wide linescan on all coordinates in csv files in one folder.
 
-Loadmetamorphtimelapse_fromcsv_twocolor_WORKING
+Loadmetamorphtimelapse_fromcsv_twocolor_merged_WORKING
 This will take data from an mda file in metamorph and load it in imagej, making a two color merged file
