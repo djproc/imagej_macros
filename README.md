@@ -12,3 +12,6 @@ This will perform a 150px wide linescan on all coordinates in csv files in one f
 
 Loadmetamorphtimelapse_fromcsv_twocolor_merged_WORKING
 This will take data from an mda file in metamorph and load it in imagej, making a two color merged file
+
+drawarrowontimelapse_fromtrackmatedata
+If you use manual tracking software (in imagej) you can export this csv and then use this macro to draw an arrow right next to the thing you're tracking
